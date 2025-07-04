@@ -16,11 +16,8 @@
           <AlertTitle>公告</AlertTitle>
           <AlertDescription>
             <p>
-              今日热榜是聚合热榜热搜平台，汇集了各大网站的热榜信息，包括微博热搜、今日头条、知乎日报、澎湃新闻、虎扑步行街、36氪、哔哩哔哩热榜，知乎、IT资讯、虎嗅网、人人都是产品经理、百度、抖音热点豆瓣小组精选等。使用
-              <a class="git-link" href="https://api.vvhan.com/article/hotlist.html" target="_blank">韩小韩热榜API</a>
-              ，可快速接入热榜数据，助力追踪全网热点。
+              今日热榜是聚合热榜热搜平台，汇集了各大网站的热榜信息，包括微博热搜、今日头条、知乎日报、澎湃新闻、虎扑步行街、36氪、哔哩哔哩热榜，知乎、IT资讯、虎嗅网、人人都是产品经理、百度、抖音热点豆瓣小组精选等。
             </p>
-            <p style="font-weight: bold">开源地址: <a class="git-link" href="https://github.com/uxiaohan/HotList-Web" target="_blank">HotList-Web</a></p>
           </AlertDescription>
         </Alert>
       </header>
@@ -30,13 +27,6 @@
       </section>
     </main>
     <footer>
-      <p><img src="./assets/svg/ing.svg" /></p>
-      <p>
-        <a href="https://pages.cloudflare.com" target="_blank" rel="noopener noreferrer"><img src="./assets/svg/framework.svg" /></a>
-        <a href="https://www.cloudflare.com/zh-cn/application-services/products/cdn/" target="_blank" rel="noopener noreferrer"><img src="./assets/svg/cdn.svg" /></a>
-        <a href="https://vuejs.org" target="_blank" rel="noopener noreferrer"><img src="./assets/svg/web.svg" /></a>
-        <a href="https://api.vvhan.com" target="_blank"><img src="./assets/svg/surppot.svg" /></a>
-      </p>
     </footer>
   </section>
   <Toaster />
